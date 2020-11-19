@@ -1,0 +1,1 @@
+print("Benfica is the best club in the world!")
